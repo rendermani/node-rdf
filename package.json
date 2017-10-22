@@ -1,0 +1,27 @@
+{
+  "name": "node-rdf",
+  "version": "1.0.0",
+  "description": "NodeJS RDf library",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rendermani/node-rdf.git"
+  },
+  "keywords": [
+    "nodejs",
+    "rdf"
+  ],
+  "author": "Austin Wright",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rendermani/node-rdf/issues"
+  },
+  "homepage": "https://github.com/rendermani/node-rdf#readme"
+}
